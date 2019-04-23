@@ -1,0 +1,25 @@
+{
+  "name": "projetos",
+  "description": "geral",
+  "main": "index.js",
+  "authors": [
+    "José Firmino"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "curso",
+    "projetos",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/josefirmino/workflow",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
